@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jars/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="jars/derbyclient.jar"/>
+	<classpathentry kind="lib" path="jars/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="jars/eclipselink-2.0.0.jar"/>
+	<classpathentry kind="lib" path="jars/flash-selenium.jar"/>
+	<classpathentry kind="lib" path="jars/javax.persistence-2.0.0.jar"/>
+	<classpathentry kind="lib" path="jars/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="jars/logging-selenium-1.2.jar"/>
+	<classpathentry kind="lib" path="jars/mail.jar"/>
+	<classpathentry kind="lib" path="jars/mysql-connector-java-5.0.7-bin.jar"/>
+	<classpathentry kind="lib" path="jars/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="jars/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="jars/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="jars/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="jars/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-java-client-driver-sources.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-java-client-driver-test-sources.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-java-client-driver-tests.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-java-client-driver.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-server-coreless.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-server-sources.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-server.jar"/>
+	<classpathentry kind="lib" path="jars/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="jars/testng.jar"/>
+	<classpathentry kind="lib" path="jars/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="jars/extentreports-3.0.2.jar"/>
+	<classpathentry kind="lib" path="jars/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="jars/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="jars/jsr166.jar"/>
+	<classpathentry kind="lib" path="jars/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="jars/jcommander.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-server-2.33.0.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-server-standalone-3.1.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
